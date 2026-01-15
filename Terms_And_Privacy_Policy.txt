@@ -1,0 +1,68 @@
+Privacy Policy
+Last Updated: January 2025
+NeuroPulse ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Information We Collect
+We collect minimal information necessary to provide our services:
+Usage Data: Anonymous analytics about app usage to improve our services, including which features are used and session duration.
+Device Information: Basic device type and iOS version for compatibility purposes.
+Subscription Status: Information related to your subscription managed through Apple's App Store.
+We do NOT collect:
+Personal identification information
+Health or biometric data
+Location data
+Contact information (unless you contact us directly)
+How We Use Your Information
+We use collected information to:
+Provide and maintain our service
+Improve and optimize the app experience
+Process subscriptions through Apple
+Respond to support requests
+Data Storage and Security
+All user preferences and downloaded content are stored locally on your device
+We do not maintain servers that store personal user data
+Subscription management is handled securely by Apple
+Third-Party Services
+We use the following third-party services:
+Apple App Store for subscription management
+Firebase for anonymous analytics (no personal data)
+Children's Privacy
+NeuroPulse is not intended for children under 13. We do not knowingly collect information from children under 13.
+Changes to This Policy
+We may update this Privacy Policy periodically. We will notify you of any changes by posting the new policy in the app.
+Contact Us
+If you have questions about this Privacy Policy, please contact us at neuropulseapp@gmail.com.
+Terms of Use
+Last Updated: January 2025
+Please read these Terms of Use carefully before using NeuroPulse.
+Acceptance of Terms
+By downloading, installing, or using NeuroPulse, you agree to be bound by these Terms of Use. If you do not agree to these terms, do not use the app.
+Description of Service
+NeuroPulse provides audio content including binaural beats, isochronic tones, and ambient soundscapes designed to support relaxation, focus, sleep, and meditation. Our content is for general wellness purposes only.
+Medical Disclaimer
+NeuroPulse is NOT a medical device and is not intended to diagnose, treat, cure, or prevent any medical condition. The audio content provided is for relaxation and wellness purposes only.
+Important Safety Warnings:
+Do not use while driving or operating machinery
+Consult a physician before use if you have epilepsy, are prone to seizures, or have a pacemaker
+If you experience any discomfort, discontinue use immediately
+The app is not a substitute for professional medical advice or treatment
+Subscription Terms
+Subscriptions are billed through Apple's App Store
+Payment is charged to your Apple ID account at confirmation of purchase
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period
+Manage or cancel your subscription in your Apple ID account settings
+Intellectual Property
+All content in NeuroPulse, including audio files, images, text, and software, is owned by NeuroPulse or our content licensors. You may not copy, distribute, modify, or create derivative works without our permission.
+User Conduct
+You agree not to:
+Attempt to reverse engineer the app
+Use the app for any unlawful purpose
+Share your subscription with others
+Redistribute our content
+Limitation of Liability
+NeuroPulse is provided "as is" without warranties of any kind. We are not liable for any damages arising from your use of the app, including but not limited to direct, indirect, incidental, or consequential damages.
+Changes to Terms
+We reserve the right to modify these Terms at any time. Continued use of the app after changes constitutes acceptance of the new terms.
+Termination
+We may terminate or suspend your access to NeuroPulse at any time, without prior notice, for conduct that we believe violates these Terms or is harmful to other users or us.
+Contact
+For questions about these Terms, contact us at neuropulseapp@gmail.com.
