@@ -1,0 +1,48 @@
+# NeuroPulse
+
+**Tune Your Mind**
+
+Frequency-verified binaural beats and isochronic tones for sleep, focus, meditation, and relaxation.
+
+---
+
+## What is NeuroPulse?
+
+NeuroPulse is a brainwave entrainment audio app that uses scientifically-designed frequencies to help guide your mind into desired mental states. Unlike other apps, every NeuroPulse track is frequency-verified and crafted by audio engineers.
+
+---
+
+## Features
+
+- **300+ Soundscapes** — Nature, ambient, music, pure tones, and therapeutic audio
+- **Frequency-Verified** — Every track contains real, measured binaural frequencies
+- **Two Beat Modes** — Binaural beats (headphones) or isochronic tones (speakers)
+- **Adjustable Intensity** — Control frequency strength from subtle to immersive
+- **Personalized Playlists** — Curated content based on your goals
+- **Sleep Timer** — Drift off as audio gently fades
+- **Offline Downloads** — Listen anywhere, no connection needed
+- **Backdrop Mode** — Layer under Spotify, podcasts, or audiobooks
+
+---
+
+## Designed For Your Goals
+
+| Goal | Frequency | Benefit |
+|------|-----------|---------|
+| **Sleep** | Delta (0.5–4 Hz) | Deep, restorative sleep |
+| **Focus** | Beta/Gamma (12–40+ Hz) | Concentration and clarity |
+| **Relaxation** | Alpha (8–12 Hz) | Stress and anxiety relief |
+| **Meditation** | Theta (4–8 Hz) | Deep meditative states |
+| **Energy** | Gamma (30+ Hz) | Alertness without caffeine |
+
+---
+
+
+## Support
+
+Having issues or questions? Contact us at **neuropulseapp@gmail.com**
+
+
+---
+
+© 2025 NeuroPulse. All rights reserved.
